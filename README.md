@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there, I'm VINI! 👋😁
 
-<!--
-**vsmau/vsmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Viniciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsmau&theme=holi)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsmau&layout=compact&theme=holi)
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Fun fact: ...
+
+![](https://hit.yhype.me/github/profile?user_id=170134485)
