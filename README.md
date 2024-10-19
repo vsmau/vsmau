@@ -1,48 +1,34 @@
-<!-- ## Hi there, I'm VINI! 👋😁
+<!--Estou tentando atualizar esse readme todo mês, fique tranquilo que se estiver lendo isso, todas as informações estão atualizadas-->
+[![Hihi](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)](https://github.com/vsmau)
 
-![Viniciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsmau&theme=holi)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsmau&layout=compact&theme=holi)
+<h1 align="center">Hi 🙋🏽‍♂️, I'm Vini</h1>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on my **Portfolio**
+- 📚 I’m currently learning a lot of **Java, Spring Boot and AWS**
+- 🎓 I'm in the 5th semester of **Computer Science**
+- 🚀 I'm in the 77th class of **Generation Brazil**
+- 🤝 I’m looking to collaborate on **Investment and EdTech**
+- 🔗 All of my projects are available at **...(coming soon)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
+💬 How to reach me? [**LinkedIn**](https://linkedin.com/in/vmsou) ⚡
 
-![Visitor badge](https://hit.yhype.me/github/profile?user_id=170134485)
--->
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+🧩 Fun fact? I solve a magic cube every 
 
-<h1 align="center">Hi 👋, I'm Vini</h1>
-
-- 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **Java, Springboot and AWS**
-
-- 👯 I’m looking to collaborate on **Investment and tech**
-
-- 👨‍💻 All of my projects are available at [soon](soon)
-
-- 📫 How to reach me **linkedin.com/in/vsmau**
-
-- ⚡ Fun fact **magic cube every day**
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&locale=en&layout=compact" alt="vsmau" /></p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&locale=en" alt="vsmau" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&card_width=495&layout=compact" alt="vsmau" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=dark" alt="vsmau" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=495" alt="vsmau" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical" alt="vsmau" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsmau&style=for-the-badge" alt="vsmau" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vsmau&style=for-the-badge&label=reloads&color=blueviolet" alt="vsmau" /> </p>
+
+![visitorstrack](https://hit.yhype.me/github/profile?user_id=170134485)
