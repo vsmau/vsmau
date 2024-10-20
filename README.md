@@ -1,7 +1,11 @@
 <!--Estou tentando atualizar esse readme todo mês, fique tranquilo que se estiver lendo isso, todas as informações estão atualizadas-->
-[![Hihi](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)](https://github.com/vsmau)
 
-<h1 align="center">Hi 🙋🏽‍♂️, I'm Vini</h1>
+[![Hihi](https://github.com/vsmau/vsmau/blob/main/archipic.gif?raw=true)](https://github.com/vsmau)
+
+<h1 align="center">Hello 🙋🏽‍♂️, I'm Vini</h1>
+
+<img src="https://github.com/vsmau/vsmau/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
+
 
 - 🌱 I’m currently working on my **Portfolio**
 - 📚 I’m currently learning a lot of **Java, Spring Boot and AWS**
@@ -14,25 +18,23 @@
 
 🧩 Fun fact? I solve a magic cube every 
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
-
-<<<<<<< HEAD
 <div align = "center">
+
 <h3>Languages and Tools:</h3>
+
 </div>
-=======
-<h3 align="left">🔗 Languages and Tools:</h3>
-<p align="left"> 
->>>>>>> 983deb575e4742f5c9ebdc7232889594c3b9fbd3
 
 <div>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&labelColor=0D1117)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=0D1117)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&labelColor=0D1117)](#)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
+![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=0D1117)
 
 </div>
 
