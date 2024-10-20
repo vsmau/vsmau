@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello 🙋🏽‍♂️, I'm Vini</h1>
 
-<img src="https://github.com/vsmau/vsmau/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
+<img src="https://github.com/vsmau/vsmau/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador Code">
 
 
 - 🌱 I’m currently working on my **Portfolio**
@@ -20,8 +20,9 @@
 
 <div align = "center">
 
-<h3>Languages and Tools:</h3>
-
+<h3>
+  Languages and Tools: 
+</h3>
 </div>
 
 <div>
@@ -37,13 +38,12 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=0D1117)
 
 </div>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&card_width=495&layout=compact" alt="vsmau" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&card_width=1000&layout=compact" alt="vsmau" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=495" alt="vsmau" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical" alt="vsmau" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=500" alt="vsmau" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical&card_width=500" alt="vsmau" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vsmau&style=for-the-badge&label=reloads&color=blueviolet" alt="vsmau" /> </p>
 
 ![visitorstrack](https://hit.yhype.me/github/profile?user_id=170134485)
