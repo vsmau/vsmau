@@ -2,7 +2,7 @@
 
 [![Hihi](https://github.com/vsmau/vsmau/blob/main/archipic.gif?raw=true)](https://github.com/vsmau)
 
-<div align="center">
+<div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F716&background=000000&center=true&vCenter=true&width=435&lines=%24vsmau%3E+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+Hello%2C+I'm+Vini;%24vsmau%3E+Nice+to+meet+you+%F0%9F%98%81)](https://git.io/typing-svg)
 
