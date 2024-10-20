@@ -40,10 +40,10 @@
 </div>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&card_width=860&layout=compact" alt="vsmau" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&card_width=1000&layout=compact" alt="vsmau" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=430" alt="vsmau" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical&card_width=430" alt="vsmau" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=450" alt="vsmau" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical&card_width=450" alt="vsmau" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vsmau&style=for-the-badge&label=reloads&color=blueviolet" alt="vsmau" /> </p>
 
 ![visitorstrack](https://hit.yhype.me/github/profile?user_id=170134485)
