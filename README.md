@@ -18,9 +18,14 @@
 <p align="left">
 </p> -->
 
+<<<<<<< HEAD
 <div align = "center">
 <h3>Languages and Tools:</h3>
 </div>
+=======
+<h3 align="left">🔗 Languages and Tools:</h3>
+<p align="left"> 
+>>>>>>> 983deb575e4742f5c9ebdc7232889594c3b9fbd3
 
 <div>
 
