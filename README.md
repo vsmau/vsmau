@@ -44,7 +44,7 @@
 </div>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmau&show_icons=true&theme=radical&card_width=1000&layout=compact" alt="vsmau" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsmau&show_icons=true&theme=radical&card_width=1000&layout=compact)]()
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=400" alt="vsmau" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical&card_width=400" alt="vsmau" /></p>
