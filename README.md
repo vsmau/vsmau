@@ -20,7 +20,7 @@
 
 💬 How to reach me? [**LinkedIn**](https://linkedin.com/in/vmsou) ⚡
 
-🧩 Fun fact? I solve a magic cube every day
+🧩 Fun fact? I solve a leetcode/hackerrank/exercism problem almost everyday 😁
 
 <div align = "center">
 
