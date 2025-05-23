@@ -12,8 +12,9 @@
 
 
 - 🌱 I’m currently working on my **Portfolio**
-- 📚 I’m currently learning a lot of **Java, Spring Boot and AWS**
+- 📚 I’m currently learning a lot of **Security, Networking and Shell**
 - 🎓 I'm in the 5th semester of **Computer Science**
+- 🛸 I'm in 42sp living the "Piscine" 👀
 - 🚀 I'm in the 77th class of **Generation Brazil**
 - 🤝 I’m looking to collaborate on **Investment and EdTech**
 - 🔗 All of my projects are available at **...(coming soon)**
